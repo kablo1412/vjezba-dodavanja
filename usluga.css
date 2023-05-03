@@ -1,0 +1,17 @@
+#usluga {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cjenici {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.cjenici img {
+    height: 550px;
+}

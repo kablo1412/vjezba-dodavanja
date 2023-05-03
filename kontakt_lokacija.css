@@ -1,0 +1,24 @@
+#kontakt_lokacija {
+    height: 100vh;
+    width: 100%;
+}
+.sadrzaj {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mapa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mapouter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.zaglavlje p {
+    font-weight: 200;
+}
